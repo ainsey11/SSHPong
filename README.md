@@ -14,8 +14,11 @@ It's probably got some bugs and issues too, the hitboxes on the paddles aren't t
 
 # Usage
 install the npm libraries with `npm install`
+
 run the server with `node pong.js`
+
 ssh to the server with `ssh -p 2244 anyusername@whateverip`
+
 enjoy your game of pong!
 
 # Docker
