@@ -2,6 +2,7 @@
 Pong Game served over SSH, implemented in Node.js
 
 # Screenshot
+![alt text](https://github.com/ainsey11/SSHPong/blob/main/pong.png)
 
 
 # Disclaimer
