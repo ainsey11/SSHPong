@@ -13,7 +13,7 @@ Use at your own risk. If you are silly enough to expose this to the internet the
 
 It accepts any SSH key and any username, it was not created with security in mind, it's a little fun game because I got bored
 
-It's probably got some bugs and issues too, the hitboxes on the paddles aren't the greates and the "AI" component likes to have its moments
+It's probably got some bugs and issues too, the hitboxes on the paddles aren't the greatest and the "AI" component likes to have its moments
 
 
 # Usage
